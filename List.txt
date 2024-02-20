@@ -4,3 +4,4 @@ BitBucket
 GitLab
 Google Doc
 Branching
+Merging
